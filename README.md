@@ -56,3 +56,15 @@ This project lets you set your desired temperature using a rotary encoder and mo
 ## 📺 Display Output Example
 ![16x2](images/16x2.jpg)
 
+---
+
+## ⚠️ Warning and Caution
+**Do Not:**
+1. Supply above 5V
+2. Connecting the thermistor's GND to the heat plate's metal surface as a ground reference
+3. Touch unshielded AC current cables
+4. Touch the heat plate surface while working
+
+**Do:**
+1. Connect to the outlet when you sure
+2. Using extra protective clothing if you need
