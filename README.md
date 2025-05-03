@@ -8,7 +8,7 @@
 
 ## 📌 Project Description
 
-Heat Plate Controller OLED v1.1 is a microcontroller-based temperature controller designed for precise heat management using a relay and thermistor. It’s perfect for:
+Heat Plate Controller OLED/16x2 I2C is a microcontroller-based temperature controller designed for precise heat management using a relay and thermistor. It’s perfect for:
 
 - DIY soldering stations  
 - Compact lab heating devices
